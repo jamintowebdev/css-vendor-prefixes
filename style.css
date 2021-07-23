@@ -1,4 +1,4 @@
-.round {
+.border-radius-round {
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     -o-border-radius: 20px;
@@ -6,6 +6,7 @@
     border-radius: 20px;
     border: 2px solid tomato;
     background-color: greenyellow;
+    color: coral;
     width: 200px;
     padding: 25px;
 }
